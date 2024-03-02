@@ -20,8 +20,11 @@ Kaggle
    - Visualización de datos básicos.
 
 2. **Select, From & Where**
-   - Explicación de cómo están organizadas las lecciones en las carpetas.
-   - Descripción de cada carpeta y su contenido.
+   - Formas de buscar la información necesaria de grandes volúmenes de datos.
+   - Filtar información.
+   - DISTINCT.
+   - `query()`.
+   - Limitar query size.
 
 3. **Group By, Having & Count**
    - Lista de las lecciones principales del curso, con enlaces a las carpetas correspondientes.
