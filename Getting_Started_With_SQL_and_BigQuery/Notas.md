@@ -1,10 +1,5 @@
 # Getting Started With SQL and BigQuery
 
-## Contenidos
-
-* **Introduction**
-* **Your first BigQuery commands**
-
 ## Keywords
 
 1. SQL(Structured Query Language)
