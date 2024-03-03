@@ -9,6 +9,14 @@ Python
 
 Kaggle
 
+### Course Link
+
+[https://www.kaggle.com/learn/intro-to-sql](https://www.kaggle.com/learn/intro-to-sql)
+
+### References
+
+[Google Cloud BigQuery Legacy](https://cloud.google.com/bigquery/docs/reference/legacy-sql)
+
 --------------------
 
 #### Contenido
@@ -27,12 +35,15 @@ Kaggle
    - Limitar query size.
 
 3. **Group By, Having & Count**
-   - Lista de las lecciones principales del curso, con enlaces a las carpetas correspondientes.
-   - Breve descripción de cada lección.
+   - Agrupar datos repetidos por columnas.
+   - Restringir resultados a ciertas condiciones.
+   - Contar resultados según grupos.
 
 4. **Order By**
-   - Descripción de los ejercicios prácticos incluidos en el curso.
-   - Cómo acceder a los ejercicios y cómo utilizarlos para practicar.
+   - Ordenar resultados ascendente y descendente.
+   - Operaciones de fechas con `EXTRACT` y `ORDER BY`.
+   - Ejercicio con `AVG()`.
+   - Uso de múltiples en `SELECT`, `GROUP BY` y `WHERE`.
 
 5. **As & With**
    - Enlaces a recursos externos que complementen las lecciones del curso.
@@ -41,6 +52,3 @@ Kaggle
 6. **Joining Data**
    - Instrucciones para contribuir al curso (si aplica).
    - Cómo reportar problemas o sugerir mejoras.
-
-7. **Referencias**
-   - Información sobre la licencia del curso y cómo se puede utilizar el material.
