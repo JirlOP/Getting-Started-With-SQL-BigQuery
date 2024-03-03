@@ -24,6 +24,7 @@
      * Escribiendo una quiery lo que sigue de este campo va entre (`)
    * `WHERE`: se utiliza para filtrar los datos.
      * Cuando lo usemos con texto, se debe poner entre comillas simples ('').
+     * Se pueden poner múltiples filtros con `AND`.
    * `DISTINCT`: se utiliza para eliminar los duplicados.
 
 2. `query()`: es una función que se utiliza para enviar una consulta a BigQuery.
@@ -109,6 +110,19 @@ Si se ejecuta una consulta que es mayor a 1 MB, se generará un error.
          WHERE unit = 'ppm'
          """
    ```
+
+* Para poner varios filtros se puede utilizar `AND`:
+
+   ```python
+   query = """
+         SELECT *
+         FROM `bigquery-public-data.openaq.global_air_quality`
+         WHERE country = 'US' AND city = 'Los Angeles'
+         """
+   ```
+
+Se pueden filtrar números con `>`, `<`, `>=`, `<=`, `=`, `!=`.
+
 
 ---
 
