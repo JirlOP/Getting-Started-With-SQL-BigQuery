@@ -46,8 +46,10 @@ Kaggle
    - Uso de múltiples en `SELECT`, `GROUP BY` y `WHERE`.
 
 5. **As & With**
-   - Enlaces a recursos externos que complementen las lecciones del curso.
-   - Libros, videos, tutoriales, etc.
+   - Crear columnas con `AS`.
+   - Crear tablas temporales con `WITH ... AS`.
+   - Uso de `DATE()`, `SUM()` y `HOUR`
+   - Ejercicios complejos buscando información de tablas temporales o **CTE**.
 
 6. **Joining Data**
    - Instrucciones para contribuir al curso (si aplica).
