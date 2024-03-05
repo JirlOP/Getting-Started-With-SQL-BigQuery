@@ -52,5 +52,6 @@ Kaggle
    - Ejercicios complejos buscando información de tablas temporales o **CTE**.
 
 6. **Joining Data**
-   - Instrucciones para contribuir al curso (si aplica).
-   - Cómo reportar problemas o sugerir mejoras.
+   - Combinar fuentes de datos. Con `JOIN` y `ON`.
+   - Uso de `WHERE... LIKE ...`. Y `%` para representar cualquier número de caracteres.
+   - Ejercicios con `INNER JOIN` más `WHERE... LIKE ...`.
