@@ -55,3 +55,4 @@ Kaggle
    - Combinar fuentes de datos. Con `JOIN` y `ON`.
    - Uso de `WHERE... LIKE ...`. Y `%` para representar cualquier número de caracteres.
    - Ejercicios con `INNER JOIN` más `WHERE... LIKE ...`.
+   - A real life backend example.
